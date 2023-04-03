@@ -1,0 +1,44 @@
+#foto{
+
+    width: 60%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+    
+}
+
+#yazi{
+
+    width: 60%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+    
+}
+
+h6{
+
+border:  solid white;
+border-radius: 5px;
+box-shadow: 5px 5px 5px 5px;
+border-width: 50px;
+
+
+}
+
+#puan{
+
+    margin-top: 10px;
+    margin-left: 20px
+
+}
+#foto1{
+    width: 25%;
+  
+border-radius: 100px;
+
+}
+p.dotted {border-style: dotted;
+border-color: red;
+margin-top: 2rem;
+height: 100px;}
